@@ -1,1 +1,11 @@
 //items
+item.monkeyGoldIngot.name=Monkey Gold Ingot
+item.monkeyGoldNugget.name= Monkey Gold Nugget
+
+
+//Food
+item.monkeyFlesh.name =Monkey Flesh
+item.monkeyFleshCooked.name = Cooked Monkey Flesh
+
+//Creative
+itemGroup.Communication.name=Communication
